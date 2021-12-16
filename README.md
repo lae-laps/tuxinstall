@@ -3,7 +3,7 @@ Esta herramienta esta pensada para la automatización de la instalación de much
 Actualmente solo tiene base para Arch linux y Debian así como todas sus derivadas.
 Pronto será añadido para termux.
 
-##Instalación
+## Instalación
 
 ``` git clone https://github.com/lae-laps/tuxinstall ```
 
