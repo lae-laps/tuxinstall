@@ -9,6 +9,6 @@ Pronto será añadido para termux.
 
 ``` cd tuxinstall ```
 
-```` chmod +x install ```
+```` chmod +x install ```  
 
 ``` ./install ```
